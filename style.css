@@ -193,7 +193,7 @@ h2{
 
 
 .flex {
-     background-color: orange;
+     background-color: white;
      display: flex; /*横並び*/
   }
   .flex .image {
@@ -237,13 +237,5 @@ h2{
 }
 
 
-.詳細{
-    width: 4000px;
-    margin: 30px;
-    display: flex;
-    justify-content: space-between;
-}
 
-.詳細{
-font-size: 40px;
-}
+
